@@ -15,8 +15,13 @@ aPackageInfo = [
 	],
 	:libs = 	[
 		[
-			:name = "",
-			:version = "",
+			:name = "stdlib",
+			:version = "1.0.0",
+			:providerusername = ""
+		],
+		[
+			:name = "tokenslib",
+			:version = "1.0.0",
 			:providerusername = ""
 		]
 	],
